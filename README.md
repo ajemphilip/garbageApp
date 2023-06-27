@@ -1,8 +1,8 @@
 # GarbageApp
 The app was created to visualize and showcase the need for garbage recycling and other means of garbage utilization in the City of Toronto. 
 ### Links
-C40 Website - https://www.c40.org/case-studies/cities100-toronto-on-the-road-to-zero-waste/
-Waste Management Data - https://www.toronto.ca/wp-content/uploads/2017/10/9803-Final-Long-Term-Waste-Management-Strategy.pdf
+- C40 Website - https://www.c40.org/case-studies/cities100-toronto-on-the-road-to-zero-waste/
+- Waste Management Data - https://www.toronto.ca/wp-content/uploads/2017/10/9803-Final-Long-Term-Waste-Management-Strategy.pdf
 # Features
 - Garbage Management data in Toronto Visualization
 - Modern Interface with 3D model
