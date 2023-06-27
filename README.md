@@ -1,10 +1,10 @@
 # garbageApp
 The app was created to visualize and showcase the need for garbage recycling and other means of garbage utilization in the City of Toronto. 
 # Features
--Garbage Management data in Toronto Visualization
-*Modern Interface with 3D model
-+GSAP X Three.JS Animation
-+Physics Engine in Web Development
+- Garbage Management data in Toronto Visualization
+- Modern Interface with 3D model
+- GSAP X Three.JS Animation
+- Physics Engine in Web Development
 #Example Images
 ![Main Screen of the Application](https://github.com/ajemphilip/garbageApp/assets/56880827/2c4afe8f-4a11-4b02-af72-13d4b070916d)
 ![Physical Visualization Part](https://github.com/ajemphilip/garbageApp/assets/56880827/0bf8cea6-4924-4f46-afe3-c43a9cc008a6)
